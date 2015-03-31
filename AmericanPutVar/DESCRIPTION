@@ -1,0 +1,9 @@
+Package: AmericanPutVar
+Type: Package
+Title: VaR of American Put Option
+Version: 1.0
+Date: 2015-04-01
+Author: Dinesh Acharya
+Maintainer: Dinesh Acharya <dines.acharya@gmail.com>
+Description: Computes VaR of American Put Option using binomial model to approximate option price and historical method to compute VaR
+License: GNU Public License (GPL)
